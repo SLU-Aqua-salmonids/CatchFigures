@@ -1,10 +1,14 @@
 # Scripts to create various figures
 
-## Swedish catch as detailed bar chart
+## Folder `SweCatchDetailed`
 
-Scripts in folder `SweCatchDetailed.`
+Scripts to create a detailed bar chart of Swedish catches
 
-![Example figure detailed Swedish catches](swe_catch_detailed.svg)
+![Example figure detailed Swedish catches](Figures/swe_catch_detailed.svg)
+
+## Folder `Figures`
+
+Folder `Figures contains generated figures.`
 
 ## Folder `Data`
 
