@@ -54,8 +54,8 @@ sv_catch <- ggplot(sv_catch_data, aes(x = År, y = Antal, fill = Fiske)) +
         legend.direction="horizontal",
         legend.title = element_blank())
 
-WIDTH <- 13
-HEIGHT <- 8.7
+WIDTH <- 14
+HEIGHT <- 9
 ggsave("Figures/swe_catch_detailed.png", sv_catch,
        width = WIDTH, height = HEIGHT, units = "cm")
 ggsave("Figures/swe_catch_detailed.svg", sv_catch,
